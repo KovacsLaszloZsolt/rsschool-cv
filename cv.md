@@ -30,3 +30,9 @@ I would like to be a a Full Stack Software Developer. I am an open mindid person
  - Space tourism website
     - [Live](https://spacetourism.netlify.app/)
     - [Github](https://github.com/KovacsLaszloZsolt/frontend-mentor/tree/space-tourism-website)
+
+**Education:**
+
+- Junior software tester, Green Fox Academy, Hungary
+
+**English level:** B1
