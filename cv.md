@@ -7,3 +7,15 @@
 **Summary:**
 
 I would like to be a a Full Stack Software Developer. I am an open mindid person. I try to learn as much as possible about software develompent and I do my tasks to the best of my knowledge.
+
+**Skills:**
+
+ - HTML
+ - CSS 
+ - Bootstrap 
+ - JavaScript 
+ - NoSQL
+ - Firebase
+ - React
+ - GIT 
+ - Software testing
